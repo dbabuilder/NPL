@@ -24,15 +24,15 @@ git push --tags
 git clone https://github.com/dbabuilder/NLP.git
 
 ---------------------
-echo "# NLP" >> README.md
+echo "# PYTHON" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/dbabuilder/NLP.git
+git remote add origin https://github.com/dbabuilder/PYTHON.git
 git push -u origin main
 -------------------------
-git remote add origin https://github.com/dbabuilder/NLP.git
+git remote add origin https://github.com/dbabuilder/PYTHON.git
 git branch -M main
 git push -u origin main
 ------------------------------------------
