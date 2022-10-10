@@ -1,0 +1,38 @@
+git init
+
+git status -s
+
+git add --all
+git add .
+git add index.html
+
+git commit -m "comienzo del proyecto"
+git commit -am "pararafo y tamano"
+git commit -amend
+
+git branch
+
+git log --oneline
+
+git reset --hard 69cd3db
+
+git pull
+
+git tag 15-10-2021 -m "version del proyecto"
+git push --tags
+
+git clone https://github.com/dbabuilder/NLP.git
+
+---------------------
+echo "# NLP" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/dbabuilder/NLP.git
+git push -u origin main
+-------------------------
+git remote add origin https://github.com/dbabuilder/NLP.git
+git branch -M main
+git push -u origin main
+------------------------------------------
