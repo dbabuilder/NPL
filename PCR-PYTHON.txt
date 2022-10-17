@@ -1,0 +1,3 @@
+C:\Users\Your Name>pip install numpy
+C:\Users\Your Name>pip install matplotlib
+C:\Users\Your Name>pip install pandas
